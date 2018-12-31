@@ -1,6 +1,12 @@
 VSC plugins
 
-Auto close tag
+
+All Autocomplete
+Auto Close Tag
+Auto Complete Tag
+Auto Rename Tag
+
+
 Beautify
 Code Runner
 GitLens
@@ -9,7 +15,7 @@ JavaScript (ES6) code snippets
 Live Server
 Multiple clipboards for VSCode
 Path Autocomplete
-React code snippets
+Reactjs code snippets
 Theme Oceanic next
 vscode-icons
 ESLint  
