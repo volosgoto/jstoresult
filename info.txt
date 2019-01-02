@@ -1,11 +1,10 @@
 VSC plugins
-
+=====================
 
 All Autocomplete
 Auto Close Tag
 Auto Complete Tag
 Auto Rename Tag
-
 
 Beautify
 Code Runner
@@ -20,4 +19,16 @@ Theme Oceanic next
 vscode-icons
 ESLint  
 jshint // add sudo npm install -g jshint
+
+
+Install Sass
+===================
+
+1. sudo apt-get install ruby-full
+2. ruby -v
+3. sudo gem install sass
+4. sass -v
+5. create folders scss and css
+6. sass --watch scss:css
+
 
