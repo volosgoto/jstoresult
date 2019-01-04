@@ -1,6 +1,6 @@
 {
 "version": 3,
-"mappings": "AAAA,IAAK;EACH,KAAK,EAAE,GAAG;EAEV,MAAE;IACA,KAAK,EAAG,KAAK",
+"mappings": "AAAA,IAAK;EACH,KAAK,EAAE,GAAG;;AAEV,MAAE;EACA,KAAK,EAAG,KAAK",
 "sources": ["../scss/test.scss"],
 "names": [],
 "file": "test.css"

@@ -29,6 +29,11 @@ Install Sass
 3. sudo gem install sass
 4. sass -v
 5. create folders scss and css
-6. sass --watch scss:css
+6. sass --watch scss:css // default indents in scc
+
+// Css indents style
+sass --watch scss:css --style compact // remover all spaces
+sass --watch scss:css --style compressed  // single line
+sass --watch scss:css --style expanded  
 
 
