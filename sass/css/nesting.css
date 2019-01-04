@@ -1,0 +1,69 @@
+.button {
+  background-color: gray;
+  color: blue;
+  padding: 2.5em;
+}
+.button:hover {
+  background-color: black;
+  color: gray;
+  padding: 2.5em;
+}
+.button:active {
+  background-color: black;
+  color: red;
+  padding: 2.5em;
+}
+.button.secondary {
+  color: yellow;
+}
+
+a {
+  color: aqua;
+}
+a:hover {
+  color: 0;
+  text-decoration: none;
+}
+a:visited {
+  color: blueviolet;
+}
+
+.nav {
+  color: black;
+}
+.nav ul {
+  color: blue;
+}
+.nav ul li {
+  color: yellow;
+}
+
+.card {
+  background: brown;
+  padding: 2em;
+}
+.card__title {
+  background: yellow;
+  font-family: 'Times New Roman', Times, serif;
+}
+.card__body {
+  background: gray;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 12px;
+}
+.card__footer {
+  background: black;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 10px;
+}
+
+.profile {
+  background: black;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 10px;
+}
+.cta .profile {
+  background: pink;
+}
+
+/*# sourceMappingURL=nesting.css.map */

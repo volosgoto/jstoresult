@@ -16,15 +16,13 @@ let par = document.getElementById('test'),
     p[1].style.color = 'yellow';
     p[2].style.color = 'green';
 
-
-    for (let i=0; i < p.length; i++) {
-      p[i].style.backgroundColor = 'gray';
-    }
+    // for (let i=0; i < p.length; i++) {
+    //   p[i].style.backgroundColor = 'gray';
+    // }
 
     // allP.forEach((elem, i) => {
     //   elem.style.backgroundColor = 'green';
     // });
-
 
 // console.log(p);
 
@@ -46,3 +44,27 @@ let par = document.getElementById('test'),
 // for (let elem of p) {
 //   elem.style.backgroundColor = 'blue';
 // }
+
+
+/// CREATE ELEMENT
+
+
+let div = document.createElement('div');
+let text = document.createTextNode('Text node text');
+
+// div.classList.add('black'); // добавлен класс
+
+// document.body.appendChild(div);
+
+// par = document.getElementById('wrapper');
+// par.appendChild(div);
+
+// document.body.insertBefore(div, par); // вствить в нвчало
+// document.body.removeChild(div); // удалить
+// document.body.replaceChild(div, btn); // заменить
+
+// console.log(par); 
+
+// div.innerText = 'HEllo';
+// div.innerHtml = '<h1>HEllo world</h1>';
+div.textContent = 'World';

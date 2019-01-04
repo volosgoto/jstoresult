@@ -1,0 +1,77 @@
+// & reference to the parent selector
+// & __something - creates njt nesting class
+
+.button {
+    background-color: gray;
+    color: blue;
+    padding: 2.5em;
+  &:hover {
+    background-color: black;
+    color: gray;
+    padding: 2.5em;
+  }
+  &:active {
+    background-color: black;
+    color: red;
+    padding: 2.5em;
+    }
+
+    &.secondary{
+      color: yellow;
+    }
+}
+
+a {
+  color: aqua;
+  
+  &:hover{
+    color : blue($color: #000000);
+    text-decoration: none;
+  }
+  &:visited {
+    color: blueviolet;
+  }
+}
+
+.nav {
+  color:black;
+  & ul{
+    color: blue;
+    & li{
+      color: yellow;
+    }
+  }
+  
+}
+
+
+.card{
+  background: brown;
+  padding: 2em;
+
+  &__title{
+    background: yellow;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  &__body{
+    background: gray;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 12px;
+  }
+  &__footer{
+    background: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 10px;
+  }
+}
+
+
+.profile {
+  background: black;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 10px;
+
+  .cta & {
+    background: pink;
+  }
+}

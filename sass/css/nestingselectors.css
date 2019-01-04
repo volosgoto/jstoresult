@@ -1,0 +1,10 @@
+body {
+  background-color: aqua;
+  background-image: url(image.jpeg);
+  background-size: cover;
+  text-transform: uppercase;
+  text-align: left;
+  text-shadow: 0 0 3px rgba(0, 0, 0, 0.2);
+}
+
+/*# sourceMappingURL=nestingselectors.css.map */

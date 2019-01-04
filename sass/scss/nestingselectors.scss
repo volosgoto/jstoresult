@@ -1,0 +1,15 @@
+body {
+  background: {
+    color: aqua;
+    image : url(image.jpeg);
+    size: cover;
+  }
+
+  text: {
+    transform: uppercase;
+    align: left;
+    shadow : 0 0 3px rgba(black, 0.2);
+
+  }
+
+}

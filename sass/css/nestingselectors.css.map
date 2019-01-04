@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,IAAK;EAED,gBAAK,EAAE,IAAI;EACX,gBAAK,EAAG,eAAe;EACvB,eAAI,EAAE,KAAK;EAIX,cAAS,EAAE,SAAS;EACpB,UAAK,EAAE,IAAI;EACX,WAAM,EAAG,0BAAwB",
+"sources": ["../scss/nestingselectors.scss"],
+"names": [],
+"file": "nestingselectors.css"
+}
