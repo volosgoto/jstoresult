@@ -26,14 +26,19 @@ Install Sass
 
 1. sudo apt-get install ruby-full
 2. ruby -v
-3. sudo gem install sass
+
+3. sudo gem install sass // by ruby gem setup
+  or
+  npm install -g sass // by npm using nodejs
+
 4. sass -v
 5. create folders scss and css
 6. sass --watch scss:css // default indents in scc
+7. sass --help for more information about the command-line interface
 
 // Css indents style
 sass --watch scss:css --style compact // remover all spaces
 sass --watch scss:css --style compressed  // single line
-sass --watch scss:css --style expanded  
+sass --watch scss:css --style expanded  // expanded css mode
 
 
