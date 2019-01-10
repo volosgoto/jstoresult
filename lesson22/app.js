@@ -1,3 +1,19 @@
+// Объекты!!!
+
+// Клачический способ
+let obj = {
+  number: 5,
+  sayHello : function () {
+    console.log(this + ' sayHello ' + 'Hello');
+    let say = ()=>{
+      console.log(this + ' say ');
+    };
+    say();
+  }
+};
+
+
+
 // ES5
 // function User(name, id) {
 //   this.name = name;
