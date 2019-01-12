@@ -5,7 +5,7 @@ function shoot({}) {
   console.log('Вы сделали выстрел...');
   let promise = new Promise((resolve, reject) => {
     setTimeout(() => {
-      Math.random() > 0.1 ? resolve({}) : reject('Вы промахнулись')
+      Math.random() > 0.1 ? resolve({}) : reject('Вы промахнулись');
     }, 100);
   });
 
