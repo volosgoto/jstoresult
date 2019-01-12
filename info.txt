@@ -15,7 +15,6 @@ Live Server
 Multiple clipboards for VSCode
 Path Autocomplete
 Reactjs code snippets
-Theme Oceanic next
 vscode-icons
 ESLint  
 jshint // add sudo npm install -g jshint
@@ -42,3 +41,6 @@ sass --watch scss:css --style compressed  // single line
 sass --watch scss:css --style expanded  // expanded css mode
 
 
+Themes
+Theme Oceanic next
+ext install graf009.Eagle-Oceanic-Next
