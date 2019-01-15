@@ -1,0 +1,25 @@
+body{
+  background-color: gray;
+}
+
+label {
+  display: block;
+  font-size : 30px;
+}
+
+input {
+  width : 300px;
+  height: 50px;
+  font-size : 30px;
+  margin-top: 10p x;
+}
+
+button{
+  margin-top: 10px;
+  display: block;
+}
+
+.container {
+  margin: 10px;
+  padding: 5px;
+}

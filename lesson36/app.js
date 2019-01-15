@@ -27,4 +27,5 @@ let user = new User('John', 20);
 user.say();
 console.log('getAge', user.getAge());
 user.setAge(30);
+user.userAge = 40;
 console.log(user.getAge());
