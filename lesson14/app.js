@@ -15,8 +15,8 @@ let john = {
 }
 
 
-john.__proto__ = soldier;
+user.__proto__ = soldier;
 
 
-console.log(john.getFullName());
-console.log(john);
+console.log(user.getFullName());
+console.log(user);

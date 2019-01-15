@@ -20,8 +20,8 @@ let john = {
 User.prototype.hobby = 'hiking';
 
 
-// john.__proto__ = user;
-// john.prototype = user;
+// user.__proto__ = user;
+// user.prototype = user;
 
 
 
