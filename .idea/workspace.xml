@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eebd96b0-d3b1-49e0-8428-ae4e40cdf1da" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/lesson17/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/lesson17/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson17/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson17/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson24/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/lesson24/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson37/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/lesson37/app.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,12 +13,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lesson17/app.js">
+        <entry file="file://$PROJECT_DIR$/lesson23/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="444">
-              <caret line="41" column="4" lean-forward="true" selection-start-line="41" selection-start-column="4" selection-end-line="41" selection-end-column="4" />
+            <state relative-caret-position="394">
+              <caret line="75" column="26" selection-start-line="75" selection-start-column="26" selection-end-line="75" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -45,7 +46,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -58,15 +58,31 @@
               <item name="jstoresult.loc" type="462c0819:PsiDirectoryNode" />
               <item name="lesson17" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="jstoresult.loc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jstoresult.loc" type="462c0819:PsiDirectoryNode" />
+              <item name="lesson23" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jstoresult.loc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jstoresult.loc" type="462c0819:PsiDirectoryNode" />
+              <item name="lesson24" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jstoresult.loc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jstoresult.loc" type="462c0819:PsiDirectoryNode" />
+              <item name="lesson30" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../jslern.loc" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
@@ -95,16 +111,19 @@
       <updated>1546591035139</updated>
       <workItem from="1546591036699" duration="44000" />
       <workItem from="1546591115706" duration="1526000" />
+      <workItem from="1547634729086" duration="286000" />
+      <workItem from="1547640350469" duration="598000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1570000" />
+    <option name="totallyTimeSpent" value="2454000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-10" width="1366" height="729" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.175" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18106061" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -140,6 +159,19 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="444">
           <caret line="41" column="4" lean-forward="true" selection-start-line="41" selection-start-column="4" selection-end-line="41" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson24/app.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson30/app.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson23/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="394">
+          <caret line="75" column="26" selection-start-line="75" selection-start-column="26" selection-end-line="75" selection-end-column="26" />
         </state>
       </provider>
     </entry>
