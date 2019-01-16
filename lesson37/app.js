@@ -4,4 +4,6 @@ let number = 1;
 
 (function(){
   let number = 2;
+  
+  console.log();
 });
