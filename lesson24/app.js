@@ -49,7 +49,6 @@ function makeArray() {
 
 
 // Классы
-
 // class Rectangle {
 //   constructor(height, width = 20){
 //     this.width = width;
