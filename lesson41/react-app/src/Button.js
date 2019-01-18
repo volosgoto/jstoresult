@@ -10,7 +10,9 @@ class Button extends Component {
   }
   
   myClick(){
+      // document.getElementsByClassName('wrapper')[0].style.backgroundColor = "#F9F5A6";
       document.getElementsByClassName('wrapper')[0].style.backgroundColor = "#F9F5A6";
+      console.log('this is:', this);
     }
     
   
