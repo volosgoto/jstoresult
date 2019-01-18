@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eebd96b0-d3b1-49e0-8428-ae4e40cdf1da" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson41/react-app/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/lesson41/react-app/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson41/react-app/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/lesson41/react-app/src/index.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -114,17 +115,18 @@
       <workItem from="1547709090972" duration="598000" />
       <workItem from="1547794254811" duration="1184000" />
       <workItem from="1547806881640" duration="598000" />
+      <workItem from="1547813202654" duration="529000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4834000" />
+    <option name="totallyTimeSpent" value="5363000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-10" width="1366" height="729" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19015151" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19318181" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
