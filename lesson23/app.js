@@ -74,7 +74,7 @@
 // }
 // let double = count.bind(2);
 // console.log(double(3));
-// console.log(double(5));
+// console.log(double(5));      f
 
 
 // 6) Контекст вызова при обращении к DOM
